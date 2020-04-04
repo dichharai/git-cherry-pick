@@ -1,2 +1,3 @@
 Dummy text for illustrating `git cherry-pick` commandline
 feature A
+feature B
